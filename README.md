@@ -1,4 +1,4 @@
-<img src="hello.jpg" alt="hello" style="max-width: 200px" />
+<img src="https://github.com/90AnnaG/90AnnaG/blob/master/hello.jpg" alt="hello" style="max-width: 200px" />
 
 ## I've been learning basic programming languages for web development in my spare time for about a year. I can create a website using HTML and CSS, I'm delving into SASS and RWD, I use the BEM methodology, I also know the basics of JavaScript, jQuery and Git. I want to broaden my knowledge of TypeScript, React.js library and other technologies related to the frontend.
 
