@@ -1,4 +1,4 @@
-## Hi! :wave: My name is Ann and I’m a beginner in the world of IT.
+![alt text](img/hello.jpg)
 
 ## I've been learning basic programming languages for web development in my spare time for about a year. I can create a website using HTML and CSS, I'm delving into SASS and RWD, I use the BEM methodology, I also know the basics of JavaScript, jQuery and Git. I want to broaden my knowledge of TypeScript, React.js library and other technologies related to the frontend.
 
