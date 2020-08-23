@@ -1,8 +1,6 @@
 <img src="https://github.com/90AnnaG/90AnnaG/blob/master/hello.png" alt="hello" style="max-width: 200px" />
 
-I've been learning basic programming languages for web development in my spare time for about a year. I can create a website using HTML and CSS, I'm delving into SASS and RWD, I use the BEM methodology, I also know the basics of JavaScript, jQuery and Git. I want to broaden my knowledge of TypeScript, React.js library and other technologies related to the frontend.
-
-** ability to work with Windows, Linux and MacOS
+I've been learning basic programming languages for web development in my spare time for about a year. I can create a website using HTML and CSS, I'm delving into SASS and RWD, I use the BEM methodology, I also know the basics of JavaScript, jQuery and Git. I want to broaden my knowledge of TypeScript, React.js library and other technologies related to the frontend. Also I've ability to work with Windows, Linux and MacOS.
 
  So far, I have made a few simple projects using pure JavaScript:
  - a form
