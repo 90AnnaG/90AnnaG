@@ -2,9 +2,9 @@
 
 I've been learning the basics for web development in my spare time for about a year. I can create a website using HTML and CSS including SASS and RWD, I use the BEM methodology, I know the basics of JavaScript, jQuery and Git. I want to expand my knowledge of TypeScript, React.js library and other technologies related to the frontend. I'm able to operate on Windows, Linux and MacOS environment at the basic/ intermediate level.
 
- ### So far, I have made a few simple projects using JavaScript:
+ ### So far, I have made a few projects using JavaScript:
+ - the famous ToDo list :blush:
  - a few simple games, including "Tic-Tac-Toe" and "Sapper"
- - the famous ToDo list
  - I've got acquainted with the .Math functions creating a simple calculator
  - a few photo galleries
  - a form (but without backend yet)
