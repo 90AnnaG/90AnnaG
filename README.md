@@ -12,6 +12,6 @@ I've been learning the basics for web development in my spare time for about a y
 
  Over time, most of my projects will appear in my repositories  :blush:
 
-#### In the near future, I would like to work as a Junior Frontend Developer, develop my skills in innovative technologies and set the bar higher and higher!
+#### Start my new way in FootballCo as Junior Web Engineer ;)
 
 <img src="https://github.com/90AnnaG/90AnnaG/blob/master/technology.png" alt="hello" style="max-width: 200px" />
